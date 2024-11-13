@@ -6,7 +6,7 @@ main:
     conference: the 47nd International Conference on Software Engineering (IEEE/ACM ICSE'25, CCF-A)
     pdf: coming soon
     code: coming soon
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: coming soon
     image: ./assets/img/repseo.png
 
   - title: "Revealing the Black Box of Device Search Engine: Scanning Assets, Strategies, and Ethical Consideration"
@@ -15,6 +15,15 @@ main:
     conference: the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)
     pdf: ./assets/files/ndss25_dse.pdf
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bibtex/ndss25_dse.bib
     # notes: Oral Presentation
     image: ./assets/img/dse.png
+
+  - title: Understanding and Detecting Abused Image Hosting Modules as Malicious Services
+    authors: Geng Hong, <strong>Mengying Wu</strong>, Pei Chen, Xiaojing Liao, Guoyi Ye, and Min Yang
+    conference_short: CCS
+    conference: the 30th ACM Conference on Computer and Communications Security (CCS'23, CCF-A)
+    pdf: ./assets/files/ccs23_aimie.pdf
+    code: https://github.com/AIMIE-Group/AIMIE
+    image: ./assets/img/aimie.png
+    bib: ./assets/bibtex/ccs23_aimie.bib
