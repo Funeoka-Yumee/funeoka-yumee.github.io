@@ -15,7 +15,7 @@ main:
     conference: the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)
     pdf: ./assets/files/ndss25_dse.pdf
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: ./assets/bibtex/ndss25_dse.bib
+    bibtex: ./assets/bibtex/ndss25_dse.txt
     # notes: Oral Presentation
     image: ./assets/img/dse.png
 
@@ -26,4 +26,4 @@ main:
     pdf: ./assets/files/ccs23_aimie.pdf
     code: https://github.com/AIMIE-Group/AIMIE
     image: ./assets/img/aimie.png
-    bibtex: ./assets/bibtex/ccs23_aimie
+    bibtex: ./assets/bibtex/ccs23_aimie.txt
