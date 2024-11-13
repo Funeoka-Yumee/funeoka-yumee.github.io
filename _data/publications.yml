@@ -26,4 +26,4 @@ main:
     pdf: ./assets/files/ccs23_aimie.pdf
     code: https://github.com/AIMIE-Group/AIMIE
     image: ./assets/img/aimie.png
-    bib: ./assets/bibtex/ccs23_aimie.bib
+    bibtex: ./assets/bibtex/ccs23_aimie
