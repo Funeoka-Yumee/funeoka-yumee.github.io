@@ -1,20 +1,20 @@
 main:
 
   - title: "Exposing the Hidden Layer: Software Repositories in the Service of SEO Manipulation"
-    authors: <strong>Mengying Wu</strong>, Geng Hong, Wuyuao Mai, Xinyi Wu, Lei Zhang, Yingyuan Pu, Huajun Chai, Lingyun Ying, Haixin Duan, and Min Yang
+    authors: <strong>Mengying Wu*</strong>, Geng Hong*, Wuyuao Mai, Xinyi Wu, Lei Zhang, Yingyuan Pu, Huajun Chai, Lingyun Ying, Haixin Duan, and Min Yang
     conference_short: ICSE
     conference: the 47nd International Conference on Software Engineering (IEEE/ACM ICSE'25, CCF-A)
     pdf: coming soon
     code: coming soon
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/repseo_ecosystem.pdf
+    image: ./assets/img/repseo.png
 
   - title: "Revealing the Black Box of Device Search Engine: Scanning Assets, Strategies, and Ethical Consideration"
-    authors: <strong>Mengying Wu</strong>, Geng Hong, Jinsong Chen, Qi Liu, Shujun Tang, Youhao Li, Baojun Liu, Haixin Duan, Min Yang
+    authors: <strong>Mengying Wu*</strong>, Geng Hong*, Jinsong Chen, Qi Liu, Shujun Tang, Youhao Li, Baojun Liu, Haixin Duan, Min Yang
     conference_short: NDSS
     conference: the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)
-    pdf: ./assets/files/ndss25_devicesearchengine.pdf
+    pdf: ./assets/files/ndss25_dse.pdf
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/dse.pdf
+    image: ./assets/img/dse.png
