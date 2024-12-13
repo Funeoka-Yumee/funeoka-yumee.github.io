@@ -4,8 +4,8 @@ main:
     authors: <strong>Mengying Wu*</strong>, Geng Hong*, Wuyuao Mai, Xinyi Wu, Lei Zhang, Yingyuan Pu, Huajun Chai, Lingyun Ying, Haixin Duan, and Min Yang
     conference_short: ICSE
     conference: the 47nd International Conference on Software Engineering (IEEE/ACM ICSE'25, CCF-A)
-    pdf: coming soon
-    code: coming soon
+    pdf: ./assets/files/icse25_repseo.pdf
+    code: https://github.com/Marphownio/RepSEO_Classifier
     bibtex: coming soon
     image: ./assets/img/repseo.png
 
