@@ -1,0 +1,11 @@
+@article{ RJXB202408008,
+author = { 陈沛 and  洪赓 and  邬梦莹 and  陈晋松 and  段海新 and  杨珉 },
+title = {一种基于突变流量的在野黑产应用采集方法},
+journal = {软件学报},
+volume = {35},
+number = {08},
+pages = {3684-3697},
+year = {2024},
+issn = {1000-9825},
+doi = {10.13328/j.cnki.jos.007122}
+}
