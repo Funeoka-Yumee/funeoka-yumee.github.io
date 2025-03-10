@@ -20,7 +20,7 @@ main:
     image: ./assets/img/dse.png
 
   - title: Understanding and Detecting Abused Image Hosting Modules as Malicious Services
-    authors: Geng Hong, <strong>Mengying Wu<strong>, Pei Chen, Xiaojing Liao, Guoyi Ye, and Min Yang
+    authors: Geng Hong, <strong>Mengying Wu</strong>, Pei Chen, Xiaojing Liao, Guoyi Ye, and Min Yang
     conference_short: CCS
     conference: the 30th ACM Conference on Computer and Communications Security (CCS'23, CCF-A)
     pdf: ./assets/files/ccs23_aimie.pdf
@@ -29,9 +29,10 @@ main:
     bibtex: ./assets/bibtex/ccs23_aimie.txt
 
   - title: An Underground Industry Application Collection Method Based on Flow Analysis（一种基于突变流量的在野黑产应用采集方法）
-    authors: 陈沛*，洪赓*，<strong>邬梦莹<strong>，陈晋松，段海新，杨珉
+    authors: 陈沛*，洪赓*，<strong>邬梦莹</strong>，陈晋松，段海新，杨珉
     conference_short: 软件学报
     conference: Journal of Software（软件学报），2024，35（08）
     link: https://link.cnki.net/doi/10.13328/j.cnki.jos.007122
-    image: ./assets/img/uiac.png
+    pdf: ./assets/files/一种基于突变流量的在野黑产应用采集方法.pdf
+    image: ./assets/img/uiac.jpg
     bibtex: ./assets/bibtex/jos24_uiac.txt
