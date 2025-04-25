@@ -4,13 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a full-time Bachelor-PhD candidate majoring in Cyberspace security at School of Computer Science Fudan University, advised by Prof. Min Yang, Prof. Mi Zhang and Prof. Geng Hong. My research interests include Cybercrime, novel cybersecurity threats and Internet measurement.
+I am a full-time Bachelor-PhD candidate majoring in Cyberspace security at School of Computer Science, Fudan University, advised by Prof. Min Yang, Prof. Mi Zhang and Prof. Geng Hong. My research interests include Cybercrime, novel cybersecurity threats and Internet measurement.
 
 ## Research Interests
 
 - **Cybercrime:** blackhat SEO, underground industry
 - **Novel Cybersecurity Threats:** web resource abuse
 - **Internet Measurement** 
+- **Email Security**
+- **Supply Chain Security**
 
 ## News
 
