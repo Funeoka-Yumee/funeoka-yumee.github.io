@@ -1,0 +1,9 @@
+@inproceedings{wu_repseo_2025,
+  author    = {Mengying Wu and Geng Hong and Wuyuao Mai and Xinyi Wu and Lei Zhang and Yingyuan Pu and Huajun Chai and Lingyun Ying and Haixin Duan and Min Yang},
+  title     = {Exposing the Hidden Layer: Software Repositories in the Service of SEO Manipulation},
+  year      = {2025}, 
+  pages     = {2100--2112}
+  booktitle = {Proceedings of the IEEE/ACM 47th International Conference on Software Engineering},
+  doi       = {10.1109/ICSE55347.2025.00147},
+  isbn      = {979-8-3315-0569-1}
+}
