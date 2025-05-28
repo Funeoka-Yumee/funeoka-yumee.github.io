@@ -16,6 +16,7 @@ I am a full-time Bachelor-PhD candidate majoring in Cyberspace security at Schoo
 
 ## News
 
+- **[May 2025]** Our paper about remote software version identification is accepted to USENIX Security 2025.
 - **[Oct. 2024]** Our paper about black hat SEO abuse in software repositories is accepted to ICSE 2025.
 - **[Oct. 2024]** Our paper about the device search engine is accepted to NDSS 2025.
 - **[Sep. 2023]** Our paper about the abuse of image hosting module is accepted to ACM CCS 2023.
