@@ -1,5 +1,14 @@
 main:
 
+    - title: "One Email, Many Faces: A Deep Dive into Identity Confusion in Email Aliases"  
+    authors: <strong>Mengying Wu*</strong>, Geng Hong*, Jiatao Chen, Mingxuan Liu, Baojun Liu, Min Yang
+    conference_short: NDSS
+    conference: the Network and Distributed System Security (NDSS) Symposium 2026 (NDSS'26, CCF-A)
+    pdf: coming soon
+    code: coming soon
+    bibtex: coming soon
+    image: ./assets/img/originmail.png
+
   - title: "Beyond Exploit Scanning: A Functional Change-Driven Approach to Remote Software Version Identification"  
     authors: Jinsong Chen*, <strong>Mengying Wu*</strong>, Geng Hong*, Baichao An, Mingxuan Liu, Lei Zhang, Baojun Liu, Haixin Duan, Min Yang
     conference_short: Security

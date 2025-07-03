@@ -16,6 +16,7 @@ I am a full-time Bachelor-PhD candidate majoring in Cyberspace security at Schoo
 
 ## News
 
+- **[Jul. 2025]** Our paper about identity confusion in email alias mechanism is accepted to NDSS 2026.
 - **[May 2025]** Our paper about remote software version identification is accepted to USENIX Security 2025.
 - **[Oct. 2024]** Our paper about black hat SEO abuse in software repositories is accepted to ICSE 2025.
 - **[Oct. 2024]** Our paper about the device search engine is accepted to NDSS 2025.
