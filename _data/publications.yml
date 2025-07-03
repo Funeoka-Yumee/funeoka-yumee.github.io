@@ -1,6 +1,6 @@
 main:
 
-    - title: "One Email, Many Faces: A Deep Dive into Identity Confusion in Email Aliases"  
+  - title: "One Email, Many Faces: A Deep Dive into Identity Confusion in Email Aliases"  
     authors: <strong>Mengying Wu*</strong>, Geng Hong*, Jiatao Chen, Mingxuan Liu, Baojun Liu, Min Yang
     conference_short: NDSS
     conference: the Network and Distributed System Security (NDSS) Symposium 2026 (NDSS'26, CCF-A)
